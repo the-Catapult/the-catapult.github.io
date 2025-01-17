@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who am I? And why am I writing this blog?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is M Waheeda. I love the following things:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- My children
+- My husband
+- Gardening
+- Writing
 
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'll add more over here later. Until then you can check out my [socials](https://facebook.com/waheeda.khan.14/about).
+
+{: .box-warning}
+Apparently you can share quite a lot of personal information on facebook for others to see 😲. So be Careful...
