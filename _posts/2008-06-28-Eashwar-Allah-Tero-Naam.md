@@ -4,8 +4,6 @@ titile: Unnoticed Sacrifices
 author: Waheeda Khan
 ---
 
-# Eashwar Allah Tero Naam
-
 A few years ago, I read *The 3 Mistakes of My Life* by Chetan Bhagat. Though I read it long ago, its story remains etched in my memory. The current scenario in our country often reminds me of the events depicted in that book.
 
 Set against the backdrop of the Godhra riots in Gujarat, the story portrays the devastating communal violence where people of two religions clashed, leading to statewide unrest and the massacre of innocent lives. It vividly illustrates how politicians, driven by their own agendas, fueled this frenzy. 
