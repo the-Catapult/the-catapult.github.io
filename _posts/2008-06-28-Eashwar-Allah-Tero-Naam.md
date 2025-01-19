@@ -4,10 +4,6 @@ titile: Unnoticed Sacrifices
 author: Waheeda Khan
 ---
 
-Here’s the updated Markdown version without the bullet points:
-
----
-
 # Eashwar Allah Tero Naam
 
 A few years ago, I read *The 3 Mistakes of My Life* by Chetan Bhagat. Though I read it long ago, its story remains etched in my memory. The current scenario in our country often reminds me of the events depicted in that book.
