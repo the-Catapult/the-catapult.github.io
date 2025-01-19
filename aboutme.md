@@ -4,12 +4,15 @@ title: About me
 subtitle: Who am I? And why am I writing this blog?
 ---
 
-My name is M Waheeda. I love the following things:
+My name is Waheeda Khan. I love the following things:
 
-- My children
-- My husband
-- Gardening
+- My Family
+- My Friends
 - Writing
+- Gardening
+- Travelling
+- Socialising
+- Music
 
 
 ### My story

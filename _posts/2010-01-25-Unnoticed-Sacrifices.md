@@ -1,8 +1,7 @@
 ---
 layout: post
 titile: Unnoticed Sacrifices
-tags: [its-my-view]
-author: M Waheeda
+author: Waheeda Khan
 ---
 
 # A Sunday to Remember  
