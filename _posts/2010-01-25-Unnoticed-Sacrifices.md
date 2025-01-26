@@ -4,8 +4,6 @@ titile: Unnoticed Sacrifices
 author: Waheeda Khan
 ---
 
-# A Sunday to Remember  
-
 This happened just yesterday. It was a relaxed Sunday, and my 4-year-old son and I were leisurely watching TV. He absolutely loves watching the ads, and I can't change the channel during commercial breaks, as he would start shrieking in protest. So, I've gotten into the habit of watching all the ads with him these days.  
 
 One ad that recently caught our attention featured **Sachin Tendulkar**—our iconic cricketer, who really needs no introduction—promoting **Sunfeast Dream Cream Biscuits**. The ad promises that a lucky buyer of the biscuits could win the chance to meet Sachin.  
