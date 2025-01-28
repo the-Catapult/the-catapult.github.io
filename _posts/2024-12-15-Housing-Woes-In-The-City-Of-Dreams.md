@@ -1,6 +1,6 @@
 ---
 layout: post
-titile: Unnoticed Sacrifices
+titile: Housing Woes In the City Of The Dreams
 author: Waheeda Khan
 tags: [Mumbai-Diaries]
 ---

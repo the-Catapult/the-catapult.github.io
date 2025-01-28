@@ -1,6 +1,6 @@
 ---
 layout: post
-titile: Unnoticed Sacrifices
+titile: Eashwar Allah Tero Naam
 author: Waheeda Khan
 ---
 

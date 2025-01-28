@@ -1,6 +1,6 @@
 ---
 layout: post
-titile: Unnoticed Sacrifices
+titile: The Oft Murdered Writer
 author: Waheeda Khan
 tags: [poem]
 ---
@@ -43,3 +43,5 @@ For being overtly selfless and ignoring my true self.
 What an ironical situation for this dame,  
 The murderer and the murdered are one and the same!  
 The murderer and the murdered are one and the same...  
+
+***
