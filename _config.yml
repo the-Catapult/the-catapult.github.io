@@ -21,6 +21,7 @@ author: Waheeda Khan
 
 navbar-links:
   Blog: "/"
+  Archive: "archive"
   About Me: "aboutme"
   # Hobbies:
   #   - Gardening: "hobbies/gardening"
