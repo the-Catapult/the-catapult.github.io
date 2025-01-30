@@ -11,7 +11,7 @@ An amateur, professional, or the one
 That wrote when the emotions soared high?  
 
 This was the question raised by a reader wide-eyed,  
-When she read about *“My unforgettable cycle ride”*.  
+When she read about [*"My unforgettable cycle ride"*]({% post_url 2020-03-10-The-Unforgettable-Cycle-Ride %}).  
 
 A working woman and a mother of two,  
 Doesn’t find time sometimes, even for loo!  
