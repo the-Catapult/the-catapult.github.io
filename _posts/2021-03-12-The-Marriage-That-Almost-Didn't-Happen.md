@@ -116,10 +116,6 @@ This unexpected change puzzled the guests. A wedding feast before the nikaah? It
 
 ### Meanwhile at Dalmandi
 
-Here’s your text in proper Markdown formatting:  
-
----
-
 My father-in-law had warned us about the probable traffic jam on our route to **Aashirwad Vatika**, which was the venue of the wedding. He had asked us to start by **7 am** in the morning so that we could reach the venue in time even if there was a traffic jam on the way. Despite the extremely cold weather, I was woken up at **4 in the morning** to have my bath and get ready.  
 
 Anyways, did I have an option? Thank God that lodge had hot water facility. So, it was not that much of a torture to have a bath at that unseemly hour in the morning. I don’t know how many of my other relatives from Chennai bathed that day, as it was **damn cold** and none of them were used to such chilly weather conditions.  
@@ -137,10 +133,6 @@ But at that time, sitting in the taxi, I was wondering *what is so important abo
 What if the groom’s family got angry and **called off the wedding** as we could not reach the venue at the desired time? Now even my family started getting doubts as to whether they had taken a **wrong decision** in marrying off their daughter at such a far-off place.  
 
 Despite all odds, we kept our **faith in the Almighty** and left our fate in His hands.  
-
-Here’s your text formatted in Markdown with italics, bold, and blockquotes:  
-
----
 
 As we sat **stranded in our taxis**, one of my **talkative aunts** struck up a conversation with the taxi driver. She told him that all that she knew about **Kumbh Mela** was what she had seen in the **Bollywood movies**—families getting separated, brothers getting lost in the Kumbh Mela crowd, and how they reunite after many years when they grow up!  
 
