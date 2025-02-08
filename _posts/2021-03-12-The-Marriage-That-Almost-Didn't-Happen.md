@@ -204,8 +204,8 @@ And so, on **10th January 2001, at 4 PM**,
 
 **I said it.**  
 
-**_"Qubool hai."_**  
+<p style="text-align:center; font-style:italic; font-size:1.2em"> "Qubool hai." </p>  
 
-Our story of ***"Two States"*** **began that day... and it is still continuing.**
+Our story of ***"Two States"*** **began that day... and it is still continuing...**
 
 ---
