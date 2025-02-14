@@ -3,6 +3,8 @@ layout: post
 title: "The Potted Plant and a Distant Homeland"
 author: Waheeda Khan
 tags: [Mumbai-Diaries]
+thumbnail-img: /assets/img/manipur_plant.png
+share-img: /assets/img/manipur_plant.png
 ---
 
 ## Mumbai Diaries: Chapter 3
@@ -31,5 +33,8 @@ The children have somehow been placed in a school in Delhi, adjusting to a life 
 Yet, despite the pain, this officer sitting in his office in Navi Mumbai clings to hope. The small potted plant on his desk is more than just a plant—it is a reminder of the home he loved, the life he once had. Every morning, he carefully waters it, ensuring it has enough sunlight. He watches it grow, as if willing it to thrive against all odds.
 
 Perhaps, in nurturing this tiny piece of greenery, he is holding on to something bigger—the belief that one day, Manipur will heal. That just as the plant flourishes despite being far from its native soil, his homeland too will find its way back to peace.
+
+![Manipur Plant](/assets/img/manipur_plant.png)
+*ZZ plant*  
 
 ---
