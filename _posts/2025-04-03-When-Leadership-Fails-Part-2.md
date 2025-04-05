@@ -17,7 +17,7 @@ But of late, I have noticed a troubling trend—some leaders are **failing in th
 
 Despite a significant number of personnel observing fasts while performing the arduous duties of the Force without a single complaint, their dedication did not seem to matter to those in charge. One particular institution, a training center housing over 1,500 recruits, had around 200 Muslim trainees—young men between 18 and 23 years old, away from home for the first time. It was natural for them to miss their families and the comforting taste of homemade *sewaiyyan* prepared by their mothers. While they understood the demands of their new life in uniform, *would it have been too much for the Head of the Institution to acknowledge their festival?*
 
-> **Why was there no planning for Eid? Why was no amount sanctioned from the Welfare Fund for its celebration? Why did the Head of Office fail to set a good example?**
+> Why was there no planning for Eid? Why was no amount sanctioned from the Welfare Fund for its celebration? Why did the Head of Office fail to set a good example?
 
 I later learned that Eid was indeed celebrated—not by any official initiative, but within the campus mosque, where Muslim personnel and recruits pooled their own money to ensure that those who came to pray could at least enjoy the traditional sweet dish. Unlike their Head of Institution, *they showed generosity and unity, upholding the values that true leadership should embody.*
 
