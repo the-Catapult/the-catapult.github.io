@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "The Monsoon Melancholy"
+subtitle: "Mumbai Diaries: Chapter 2"
 author: Waheeda Khan
 tags: [Mumbai-Diaries]
 ---
-
-## Mumbai Diaries: Chapter 2
 
 Mumbai’s monsoon is like a symphony played on repeat from June to September—its rhythm steady, its melodies interspersed with sudden crescendos. Unlike the rains in Chennai, which arrive with thunderous clouds and howling winds driven by low-pressure systems in the Bay of Bengal, Mumbai’s monsoon is a quiet, relentless companion. There are no booming thunders or streaks of lightning here—just an unceasing downpour that seems like the Rain God has left the shower running.
 

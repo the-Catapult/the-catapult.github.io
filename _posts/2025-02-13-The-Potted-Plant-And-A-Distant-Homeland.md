@@ -2,12 +2,11 @@
 layout: post
 title: "The Potted Plant and a Distant Homeland"
 author: Waheeda Khan
+subtitle: "Mumbai Diaries: Chapter 3"
 tags: [Mumbai-Diaries]
 thumbnail-img: /assets/img/manipur_plant.png
 share-img: /assets/img/manipur_plant.png
 ---
-
-## Mumbai Diaries: Chapter 3
 
 On my senior officer’s desk in Navi Mumbai, a small potted plant sat quietly, its delicate green leaves reaching toward the window, absorbing the warmth of the morning sun. To an outsider, it was just another office decoration, but to him, it was a connection to a world that now seemed impossibly far away—his home in Manipur.
 

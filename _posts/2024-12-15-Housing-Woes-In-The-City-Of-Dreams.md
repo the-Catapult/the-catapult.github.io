@@ -1,11 +1,10 @@
 ---
 layout: post
-titile: Housing Woes In the City Of The Dreams
+title: Housing Woes In the City Of The Dreams
+subtitle: "Mumbai Diaries: Chapter 1"
 author: Waheeda Khan
 tags: [Mumbai-Diaries]
 ---
-
-## Mumbai Diaries: Chapter 1 
 
 It was a Saturday, officially a holiday, as I work in an office with a five-day schedule and weekends off. But as usual, my colleagues and I were at work, sacrificing our day off due to the heavy load of commitments in our department—a responsibility towards the nation, far from easy.  
 

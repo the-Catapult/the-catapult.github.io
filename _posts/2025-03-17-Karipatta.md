@@ -2,11 +2,9 @@
 layout: post
 author: Waheeda Khan
 title: Karipatta
-excerpt: Mumbai Diaries Chapter 4 - On my transfer to Navi Mumbai, finding a flat to live in was one of the most difficult tasks to accomplish. The ones I liked were
+subtitle: "Mumbai Diaries: Chapter 4"
 tags: [Mumbai-Diaries]
 ---
-
-# Mumbai Diaries: Chapter 4
 
 
 On my transfer to Navi Mumbai, finding a flat to live in was one of the most difficult tasks to accomplish. The ones I liked were exorbitantly out of my budget. The ones that were affordable, I didn’t like. After a lot of searching and hunting around, when I finally found one that felt a bit comfortable, the house owner refused to rent it to me—once he saw my Aadhar card. *Phew!*
