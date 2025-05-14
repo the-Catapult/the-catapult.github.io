@@ -7,6 +7,7 @@ excerpt: "As a tired autumn gives way to much awaited spring, <br>New energy and
 # thumbnail-img: /assets/img/mumbai_spring_md-ch-6.png
 share-img: /assets/img/mumbai_spring_md-ch-6.png
 cover-img: /assets/img/mumbai_spring_md-ch-6_cover.png
+tags: [Mumbai-Diaries, poem]
 ---
 
 As a tired autumn gives way to much awaited spring,  
