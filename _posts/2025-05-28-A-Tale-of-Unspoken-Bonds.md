@@ -1,6 +1,6 @@
 ---
 layout: post
-titile: THE WAKEUP CALL
+titile: A Tale of Unspoken Bonds
 author: Waheeda Khan
 ---
 
