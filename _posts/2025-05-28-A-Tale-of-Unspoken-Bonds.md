@@ -1,0 +1,36 @@
+---
+layout: post
+titile: THE WAKEUP CALL
+author: Waheeda Khan
+---
+
+**Lynn**, a 23-year-old *cheerful, happy-go-lucky* girl, lived in a town called **Avadi**, in **Chennai**. *No, this is not a story about Lynn.* She lived with her *doting parents* who were *religious and philanthropic* people. *No, no, this is not a story about Lynn’s parents either.* Lynn had a *chubby, cute, and dimpled* younger brother, **Leo**, who was quite *naughty* but could never win over his sister. *No, no, no, this is not a story about Leo as well.*
+
+Lynn lived in a *spacious, sprawling house* with a *large-sized garden* and ample open space, properly surrounded by a compound wall and a *big grilled gate* to provide *safety and security* to the family. *Lest you start guessing that this story is about Lynn’s spacious house, no, it isn’t.* Then who is it about? Well, it is about the *one and only* **Bruno**!
+
+**Now who is this Bruno?**
+Bruno is the *pet dog* in the family. He was brought into the household as a *small puppy* but soon grew into a *big and healthy Labrador*. Bruno was not just a pet; *he was a family member*. He roamed about the entire house and garden and *cherished the company of hens* in the backyard. He often *chased the crows, mynahs, and squirrels* in the garden, never really able to catch them. But *he never stopped trying*. Sometimes, when you looked intently at his activities in the garden, it appeared as though *he deliberately let the squirrel escape*, even though it was within his reach. *He was a loving creature, full of life and energy.*
+
+Bruno was *never allowed to go outside* the main gate of the house. There was no necessity to take him out on a leash as other pet owners do, because Bruno had *all the space to run, roll, and play* around, unlike other pet dogs who lived in *dingy/cramped spaces*. But still, Bruno *longed to see the outside world*, the life that was beyond that grilled gate. He often stood near the gate and looked at the road outside, at the *hustle and bustle* of life going on. Some school-going kids often stopped by at the gate on seeing Bruno and would try to engage him from the other side of the gate. Bruno would *try to lick their hands* and *wagged his tail happily* on seeing the kids.
+
+Life went on in this fashion for quite some time, until *two new characters* entered Bruno’s life.
+
+The first character was a *goat* who was initially attracted to the *green grass* in the lawn in front of Lynn’s house. For easy reference, let’s name her **Barbie**. This goat would daily come to the gate and try to enter through the grills. But the grills were too close, and she could not squeeze herself in. So she stood there *bleating at the gate*, hoping that someone would come and open it for her. But the only person who responded to her bleats was *Bruno*. He would rush to the gate immediately on hearing the sounds of Barbie. As a dog, he was supposed to chase the goat away. But *Bruno was a loving dog*, *very gentle*—he *never chased Barbie away*. Instead, *he ogled at her*, *saliva drooling* from his tongue, *wagging his tail happily* on seeing her. Don’t know whether he was aware that Barbie was *not a dog species*. It looked like the fact did not bother him at all. *Another female animal of his size*, with *two small horns on its head* and *teats hanging beneath*, seemed to be interested in him, and *that was enough to make Bruno happy*.
+
+A strange, yet quite *interesting friendship*—or perhaps *something more*—developed between **Bruno** the dog and **Barbie** the goat. Daily, Barbie would come to the gate at a fixed time, mostly in the morning, between *9 and 10 a.m.* Bruno would run to her immediately on seeing her. He could not open the heavy metallic gates for Barbie. But *he stayed close to her near the gate*. Both communicated with each other in their own language of *barks and bleats* until someone shooed the goat away. But she returned the next day *unfailingly* at the same time to meet her *new-found love*, Bruno.
+
+This pattern continued until a *twist in the story* came with the entry of another character in Bruno’s life.
+
+In Bruno and Barbie’s love story entered **Alexa**, the *new female dog* of the next-door neighbours of Lynn. Alexa came to live in the house on the adjacent side of the compound wall. Bruno could not see Alexa, but *could hear her barks and squeals*. He would now run to the side of the wall from where he heard Alexa’s sounds. The wall was too high for him to jump over and cross it to see Alexa. So he now started *digging every day* in the garden near the wall, trying to *dig a tunnel to reach Alexa*. The everyday *howl and dig* were noticed by the gardener who would *meticulously close it up*, putting the mud back into the hole dug by Bruno. Thus, all of Bruno’s efforts would *go in vain*. Though Bruno was still not able to meet Alexa, yet *his heart longed for her presence*.
+
+Now, a *sudden change* in the equation between Bruno and Barbie took place—Barbie would come to the gate and make bleating sounds as usual. She still sat near the gate, *watching Bruno*, *yearning for him to come near her*. But Bruno *no longer ran to her*. He *stared at her from a distance*. Barbie kept on bleating, but *Bruno stopped responding*.
+
+The arrival of Alexa *confused Bruno*, *mocking his bond with Barbie*. So he did not go near her. There seemed to be a *shift of loyalty* in Bruno, as he no more bothered to respond to Barbie’s bleats. He would now sit *with his back to the gate*, no longer interested in seeing Barbie at the gate. Lynn, who was a witness to all these events, would *make fun of Bruno*. When Barbie came near the gate, she would jokingly poke and chide Bruno to look at his *old girlfriend* waiting for him. Bruno would *not budge* and continue to sit with his back to the gate—putting on the gesture which showed that *he was not interested in Barbie anymore*.
+
+They say *friendship between two friends often gets shattered* when a third person enters their world. We’ve seen it in real life, in *whispered schoolyard stories*, in *broken confidences*, and even in *countless Bollywood movies*. But who would have thought this *fragile truth* stretched beyond human hearts *into the animal world too*?
+
+For the first time, it became *heartrendingly clear* that *emotions—those invisible feelings that bond beings together—don’t belong to humans alone*. A *loyal goat* who once enjoyed the *undiluted attention* of a dog, making her forget that she was *not one of his kind*, now sat in *silent longing*. A dog, once *full of innocent love* for a goat, now *turned his back on her*. He seemed to be *confused* by the sounds of another female who seemed to *speak his own language* and *undeniably pulled at his heartstrings* in an irresistible manner, though he had *not seen her ever*. It wasn’t *betrayal*, perhaps, but a visibly *helpless drift of affection*.
+
+And so, in a *quiet garden in Avadi*, with *no music, no drama, and no words*, a *love triangle unfolded*—a tale of *unspoken bonds*, *quiet heartbreaks*, and the truth that even animals, in their own gentle way, *know the pain of losing a friend*...
+
+---
