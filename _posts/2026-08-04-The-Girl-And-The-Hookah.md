@@ -83,6 +83,6 @@ All she knew was that she wanted to live every moment on her own terms, chase ev
 
 Whether that story would become a triumph or a tragedy was a question for another day.
 
-For now, she was simply Shanaya _
+For now, she was simply Shanaya—
 
 ***She is not just the girl who asked for a hookah. She is the girl with the hookah.***
